@@ -10,8 +10,14 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 ## DIAGRAM:
 
+<img width="1135" height="550" alt="image" src="https://github.com/user-attachments/assets/0619801e-7ce8-4325-9244-8513a7a7d4bd" />
+
+<img width="1137" height="550" alt="image" src="https://github.com/user-attachments/assets/78eceb31-b3ae-4d00-84f5-a7be14e4b863" />
+
 
 ## CIRCUIT DIAGRAM:
+
+<img width="1280" height="1124" alt="image" src="https://github.com/user-attachments/assets/f5c23784-8f69-4cac-9de3-9a0053802a3c" />
 
 
 ## PROCEDURE: 
