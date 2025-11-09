@@ -17,9 +17,12 @@ LVDT is basically a mutual inductance type transformer with variable coupling be
 
 ## CIRCUIT DIAGRAM:
 
-<img width="1280" height="1124" alt="image" src="https://github.com/user-attachments/assets/f5c23784-8f69-4cac-9de3-9a0053802a3c" />
+<img width="1280" height="970" alt="image" src="https://github.com/user-attachments/assets/e1a70ee8-5c0b-4c01-9add-1de31688b5bc" />
+
 
 ## TABULATION :
+
+<img width="1600" height="781" alt="image" src="https://github.com/user-attachments/assets/af8b0e45-9aab-4bf9-b764-59f110114903" />
 
 
 ## PROCEDURE: 
@@ -29,8 +32,14 @@ I. Connect the multimeter at the output of kit..
 4. Value and note the corresponding values of voltages in the multimeter.
 5. Plot the graph between displacement and voltages on the graph paper.
 
+## MODEL GRAPH:
+
+<img width="1312" height="1600" alt="image" src="https://github.com/user-attachments/assets/5429df19-9f7a-4a84-afec-39b323989222" />
 
 ## OBSERVATION TABLE
+
+<img width="1280" height="741" alt="image" src="https://github.com/user-attachments/assets/ad5387c0-dfd8-43e1-861e-0dba303e542e" />
+
 
 ## PRECAUTION:
 1. The values on the multimeter should be carefully noted.
